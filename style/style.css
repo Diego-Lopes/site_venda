@@ -106,6 +106,7 @@ footer {
 a {
   text-decoration: none;
   color: black;
+  margin-left: 0.20rem;
 }
 
 @media screen and (max-width: 769px) {
